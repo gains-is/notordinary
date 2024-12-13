@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gains-is
+- 👋 Hi, I’m @notordinary
 - 👀 I’m interested in great experiences
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on great music tech
